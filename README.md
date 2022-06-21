@@ -1,2 +1,1 @@
-
-read me
+This is a repo for learning git
