@@ -1,0 +1,24 @@
+SNAKE
+As a user playing the game I want to:
+
+start the game by pressing a Start button
+use my arrow keys to change the direction of the snake
+have the snake grow correctly when it eats the apple
+have the game end if the snake tries to eat itself
+have the game end if the snake runs into a wall
+see how long my snake was when the game ended
+start the game over without having to reset the browser
+
+
+As a user playing the game I would be delighted if I:
+
+can set the difficulty (speed of snake)
+can keep track of my stats (maximum points, average points, etc.) between games
+
+
+
+//Need to make the game board out of a grid of rows and columns 20x20
+//Need to have a game loop, automatically move the snake forward the same direction   as last loop, unless interrupted by player key input.
+//Need to check for collision of snake with wall, itself, food, and empty space each loop.
+//Need to add a length to snake tail if food is collided with. 
+
